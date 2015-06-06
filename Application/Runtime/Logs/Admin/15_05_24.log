@@ -1,0 +1,11 @@
+[ 2015-05-24T13:24:09+08:00 ] ::1 /tpshop/index.php/Admin/Attribute/getAttrs?type_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\tpshop\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `cz_attribute` [ RunTime:0.080404s ]
+ERR: Think\Model:getAttrForm方法不存在！
+
+[ 2015-05-24T19:22:08+08:00 ] ::1 /tpshop/index.php/Admin/Category/category.php?act=move&cat_id=1
+ERR: 非法操作:category.php
+
